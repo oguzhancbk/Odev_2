@@ -4,7 +4,7 @@
 Testler için bir postman tarafından yapılmıştır.
 
 ```GET http://127.0.0.1:5000/users```
-<img width="643" alt="get" src="https://user-images.githubusercontent.com/91920210/193450315-3f866d6d-6613-42f4-a188-35b986dba917.png">
+<img width="643" src="https://user-images.githubusercontent.com/91920210/193450315-3f866d6d-6613-42f4-a188-35b986dba917.png">
 
 ```POST http://127.0.0.1:5000/users?name=Bugra&surname=Atan&age=22&city=Istanbul```
 <img width="643" alt="post" src="https://user-images.githubusercontent.com/91920210/193450320-fca3f49b-a431-420e-bd17-3272fa384679.png">
