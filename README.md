@@ -4,7 +4,7 @@
 Testler için bir postman tarafından yapılmıştır.
 
 ```GET http://127.0.0.1:5000/users```
-![Screenshot_3](images/get.png)
+!(images/get.png)
 
 ```POST http://127.0.0.1:5000/users?name=Bugra&surname=Atan&age=22&city=Istanbul```
 ![Screenshot_5](images/post.png)
